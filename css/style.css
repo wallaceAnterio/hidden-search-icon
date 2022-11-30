@@ -45,6 +45,9 @@ body {
     width: 50px;
     transition: transform 0.3s ease;
 }
+.btn:hover{
+    background-color: rgb(220, 213, 203);
+}
 
 .btn:focus,
 .input:focus {
